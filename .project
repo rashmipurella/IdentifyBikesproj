@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>IdentifyBikes</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>commons-io-2.11.0-bin</name>
+			<type>2</type>
+			<location>C:/Users/RASHIMI/Downloads/commons-io-2.11.0-bin</location>
+		</link>
+		<link>
+			<name>jars</name>
+			<type>2</type>
+			<location>C:/Users/RASHIMI/Downloads/jars</location>
+		</link>
+	</linkedResources>
+</projectDescription>
